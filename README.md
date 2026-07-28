@@ -19,9 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
