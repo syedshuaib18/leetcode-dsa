@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
