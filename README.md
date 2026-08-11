@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1406-stone-game-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -150,4 +152,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
