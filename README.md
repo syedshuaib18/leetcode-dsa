@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0258-add-digits) |
