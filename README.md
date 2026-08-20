@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 | [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
