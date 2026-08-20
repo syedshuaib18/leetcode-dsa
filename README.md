@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [1406-stone-game-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
+| [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
 ## Pigeonhole Principle
 |  |
 | ------- |
