@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Nim Game
 |  |
 | ------- |
