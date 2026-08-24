@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0229-majority-element-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
