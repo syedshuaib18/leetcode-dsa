@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
