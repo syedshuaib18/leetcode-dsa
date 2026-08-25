@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0120-triangle](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1406-stone-game-iii) |
