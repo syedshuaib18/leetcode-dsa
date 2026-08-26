@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0213-house-robber-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
@@ -241,4 +243,16 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0337-house-robber-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
