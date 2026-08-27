@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0337-house-robber-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
