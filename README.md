@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
 ## Pigeonhole Principle
