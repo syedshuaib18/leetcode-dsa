@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0072-edit-distance](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0053-maximum-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
