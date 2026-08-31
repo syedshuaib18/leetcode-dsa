@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0337-house-robber-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1406-stone-game-iii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 ## Bit Manipulation
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sliding Window
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -280,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
