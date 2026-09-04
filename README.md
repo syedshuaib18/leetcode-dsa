@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1848-minimum-distance-to-the-target-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3046-split-the-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0072-edit-distance](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
