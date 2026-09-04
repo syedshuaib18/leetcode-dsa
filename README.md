@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3731-find-missing-elements](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1095-find-in-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
