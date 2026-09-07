@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0229-majority-element-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -97,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
