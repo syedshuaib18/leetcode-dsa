@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0151-reverse-words-in-a-string](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -338,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
