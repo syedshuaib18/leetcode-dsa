@@ -7,7 +7,12 @@ class Solution {
        for(int x:nums2)nums[k++]=x;
        Arrays.sort(nums);
        int n =nums.length;
-
-       return n%2==1 ?nums[n/2]:(nums[n/2-1]+nums[n/2])/2.0;
+       if(n%2==1){
+        return nums[n/2];
+       }
+       else{
+        return (nums[n/2-1]+nums[n/2])/2.0;
+       }
+       //return n%2==1 ?nums[n/2]:(nums[n/2-1]+nums[n/2])/2.0;
     }
 }
