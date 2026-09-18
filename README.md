@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0070-climbing-stairs) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0509-fibonacci-number) |
@@ -342,5 +344,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
