@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0152-maximum-product-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0486-predict-the-winner) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0048-rotate-image) |
+| [0221-maximal-square](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0221-maximal-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
