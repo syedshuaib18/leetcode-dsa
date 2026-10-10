@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0540-single-element-in-a-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0540-single-element-in-a-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1095-find-in-mountain-array) |
