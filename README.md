@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0072-edit-distance](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0709-to-lower-case](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -371,9 +373,11 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
