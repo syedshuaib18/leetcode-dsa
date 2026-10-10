@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1848-minimum-distance-to-the-target-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2206-divide-array-into-equal-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3046-split-the-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3046-split-the-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3731-find-missing-elements) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0455-assign-cookies](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [1095-find-in-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1095-find-in-mountain-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
