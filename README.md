@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1004-max-consecutive-ones-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1095-find-in-mountain-array) |
 | [1406-stone-game-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
