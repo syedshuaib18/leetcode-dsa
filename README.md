@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1095-find-in-mountain-array) |
 | [1406-stone-game-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0888-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1095-find-in-mountain-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/syedshuaib18/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/syedshuaib18/leetcode-dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/syedshuaib18/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
